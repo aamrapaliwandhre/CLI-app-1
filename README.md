@@ -5,7 +5,4 @@ environment. <br>I made this app with the help of Tanay Sir at neog.camp.<hr>
 <h2>Environment details:</h2><br>
 <ul>node v12.16.1<br>
 readline-sync v1.4.10</ul><br><hr>
-<h2>Screenshot</h2>
-<header class="hero">
-        <img src="pictures/screenshot33.png">
-    </header>
+
