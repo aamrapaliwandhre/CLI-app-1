@@ -36,6 +36,10 @@ var questions = [
 {
   question:"Who is my favorite cricketer? ",
   answer:"virat"
+},
+{
+  question:"What is my favorite junk food?",
+  answer:"pizza"
 }];
 
 for(var i=0; i<questions.length; i++){
