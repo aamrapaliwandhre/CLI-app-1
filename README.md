@@ -6,4 +6,4 @@ environment. <br>I made this app with the help of Tanay Sir at neog.camp.<hr>
 <ul>node v12.16.1<br>
 readline-sync v1.4.10</ul><br><hr>
 
-![Screenshot (39)](https://user-images.githubusercontent.com/78811462/134930178-7f5c593e-8169-4e37-9165-e17df1107324.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/78811462/135025453-471645c5-c4e9-4a66-a8e2-67cc7ada7cf6.png)
